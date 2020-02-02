@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="specs.ATOSpec" tests="3" skipped="0" failures="0" errors="0" timestamp="2020-02-02T20:09:52" hostname="Balas-MacBook-Pro.local" time="26.114">
+  <properties/>
+  <testcase name="Verify ATO Estimated tax[0]" classname="specs.ATOSpec" time="14.291"/>
+  <testcase name="Verify ATO Estimated tax[1]" classname="specs.ATOSpec" time="5.894"/>
+  <testcase name="Verify ATO Estimated tax[2]" classname="specs.ATOSpec" time="5.929"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[[Test worker] INFO com.athaydes.spockframework.report.SpockReportExtension - Got configuration from Spock: com.athaydes.spockframework.report.internal.SpockReportsConfiguration([:])
+[Test worker] INFO com.athaydes.spockframework.report.internal.ConfigLoader - SpockReports config loaded: {com.athaydes.spockframework.report.showCodeBlocks=true, com.athaydes.spockframework.report.template.TemplateReportCreator.reportFileExtension=md, com.athaydes.spockframework.report.testSourceRoots=src/test/groovy, com.athaydes.spockframework.report.IReportCreator=com.athaydes.spockframework.report.internal.HtmlReportCreator, com.athaydes.spockframework.report.outputDir=/Users/balakr/Desktop/Bala/MLC/build/reports/test-geb/spock, com.athaydes.spockframework.report.internal.HtmlReportCreator.inlineCss=true, com.athaydes.spockframework.report.internal.HtmlReportCreator.featureReportCss=spock-feature-report.css, com.athaydes.spockframework.report.hideEmptyBlocks=false, com.athaydes.spockframework.report.internal.HtmlReportCreator.summaryReportCss=spock-summary-report.css, com.athaydes.spockframework.report.projectVersion=Unknown, com.athaydes.spockframework.report.template.TemplateReportCreator.specTemplateFile=/templateReportCreator/spec-template.md, com.athaydes.spockframework.report.internal.HtmlReportCreator.specSummaryNameOption=class_name_and_title, com.athaydes.spockframework.report.template.TemplateReportCreator.summaryTemplateFile=/templateReportCreator/summary-template.md, com.athaydes.spockframework.report.internal.HtmlReportCreator.excludeToc=false, com.athaydes.spockframework.report.template.TemplateReportCreator.enabled=true, com.athaydes.spockframework.report.projectName=, com.athaydes.spockframework.report.template.TemplateReportCreator.summaryFileName=summary.md, com.athaydes.spockframework.report.internal.HtmlReportCreator.printThrowableStackTrace=false, com.athaydes.spockframework.report.internal.HtmlReportCreator.enabled=true, com.athaydes.spockframework.report.enabled=true}
+[Test worker] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 79.0.3945.36 (since Google Chrome 79 is installed in your machine)
+[Test worker] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/balakr/.m2/repository/webdriver/chromedriver/mac64/79.0.3945.36/chromedriver
+Starting ChromeDriver 79.0.3945.36 (3582db32b33893869b8c1339e8f4d9ed1816f143-refs/branch-heads/3945@{#614}) on port 39745
+Only local connections are allowed.
+Please protect ports used by ChromeDriver and related test frameworks to prevent access by malicious code.
+Feb 03, 2020 7:09:59 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+[Test worker] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 79.0.3945.36 (since Google Chrome 79 is installed in your machine)
+[Test worker] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/balakr/.m2/repository/webdriver/chromedriver/mac64/79.0.3945.36/chromedriver
+[Test worker] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 79.0.3945.36 (since Google Chrome 79 is installed in your machine)
+[Test worker] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/balakr/.m2/repository/webdriver/chromedriver/mac64/79.0.3945.36/chromedriver
+]]></system-err>
+</testsuite>

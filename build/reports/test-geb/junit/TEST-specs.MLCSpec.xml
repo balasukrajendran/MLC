@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="specs.MLCSpec" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-02-02T20:10:20" hostname="Balas-MacBook-Pro.local" time="10.904">
+  <properties/>
+  <testcase name="Verify MLC page" classname="specs.MLCSpec" time="10.904"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[[Test worker] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 79.0.3945.36 (since Google Chrome 79 is installed in your machine)
+[Test worker] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/balakr/.m2/repository/webdriver/chromedriver/mac64/79.0.3945.36/chromedriver
+]]></system-err>
+</testsuite>

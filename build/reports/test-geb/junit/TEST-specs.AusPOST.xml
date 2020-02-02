@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="specs.AusPOST" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-02-02T20:10:18" hostname="Balas-MacBook-Pro.local" time="1.671">
+  <properties/>
+  <testcase name="Call AusPostAPI" classname="specs.AusPOST" time="1.671"/>
+  <system-out><![CDATA[AUS API called for delivery to NZ successfully
+AUS API called for delivery to USA successfully
+AUS API called for delivery to India successfully
+]]></system-out>
+  <system-err><![CDATA[[Test worker] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 79.0.3945.36 (since Google Chrome 79 is installed in your machine)
+[Test worker] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/balakr/.m2/repository/webdriver/chromedriver/mac64/79.0.3945.36/chromedriver
+[Test worker] WARN groovyx.net.http.ParserRegistry - Cannot find parser for content-type: JSON -- using default parser.
+[Test worker] WARN groovyx.net.http.ParserRegistry - Cannot find parser for content-type: JSON -- using default parser.
+[Test worker] WARN groovyx.net.http.ParserRegistry - Cannot find parser for content-type: JSON -- using default parser.
+]]></system-err>
+</testsuite>
